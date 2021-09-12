@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: "k8s"
-          image: "blaizek8s.azurecr.io/k8s"
+          image: "tural.azurecr.io.azurecr.io/k8s"
           ports:
           - containerPort: 80
